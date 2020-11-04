@@ -1,4 +1,4 @@
-<h1>Equalizacao de Imagens</h1>
+<h1>Equalização de Imagens</h1>
 <ul>
   <li>Implementação de um algoritmo no MATLAB para equalização de imagens e comparação entre as diferentes abordagens utilizadas</li>
   <li>Uma das abordagens utilizadas foi a equalização em cada canal RGB separadamente</li>
